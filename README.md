@@ -61,26 +61,10 @@ docker logs -f --tail 100 ev
  
 https://testnet-3.elixir.xyz
 
-- mock mintliyoruz.
-
-![image](https://github.com/user-attachments/assets/372d88f9-4764-4edb-9d67-b3970853611d)
-
-![image](https://github.com/user-attachments/assets/a8df72f0-609a-4bd1-84da-dcd51b6206aa)
+- Mock mintliyoruz.
 
 - Stake ediyoruz
 
-![image](https://github.com/user-attachments/assets/29154f78-0b07-4cd8-8bbb-7d0ec8963e3f)
-
-
-Şimdi de custom validator yazısına tıklayıp cüzdan adresimizi yazalım ve delegate deyip cüzdanı onaylayalım.
-
-![image](https://github.com/user-attachments/assets/66ac61b9-9bf2-4641-8ed0-8220630ad5b7)
-
-
-![image](https://github.com/user-attachments/assets/f0845b42-b7fc-4d27-83dc-668cf8ae60c5)
-
-![image](https://github.com/user-attachments/assets/2570ca14-5efc-422c-ad99-6b81dbf5ee97)
-
-
+- Son olarak custom validator yazısına tıklayıp cüzdan adresimizi yazalım ve delegate deyip cüzdanı onaylayalım.
 
 
